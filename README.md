@@ -17,17 +17,17 @@ result.bmp
 
 --------------------------------
 
-# You can save image with: save_*("iamge-name")
+# You can save image with: save_*("image-name")
 
 #with *:
-        "pnm"
-        "pfm"
-        "bmp"
-        "gif"
-        "jpg"
-        "off"
-        "pan"
-        "png"
-        "tif"
-        "inr"
-        "dcm"
+        "pnm",
+        "pfm",
+        "bmp",
+        "gif",
+        "jpg",
+        "off",
+        "pan",
+        "png",
+        "tif",
+        "inr",
+        "dcm".

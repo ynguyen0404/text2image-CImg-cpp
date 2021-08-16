@@ -1,4 +1,4 @@
-# text2image-CImg-cpp
+# text2image-CImg-cpp Project
 
 Project using CImg Library (https://cimg.eu/).
 
